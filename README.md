@@ -1,2 +1,5 @@
 # javascript-learning
-Hello! This repo is created to maintain a collection of learning and practiced questions while learning Js. This repo contains most important part the notes it is handwritten as well as digital. And i have created this is just for learning Js and managing my learning materials of Js. This contains Js from Beginner Level to Advance Level.
+The purpose of repo is to manage and maintain the learning's of Js and Also keep things accountable.
+This repo is the good guide for learning js from basic to advance level from sratch.
+This contains hand written notes, digital notes, problems or practice that i have done.
+(Made Purely to Manage Learning Material for Future Use).
