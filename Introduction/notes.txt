@@ -1,4 +1,4 @@
-# Javascript is the langauage of web.
+# Javascript is the language of web.
 
 # We have two ways to link js.
 1. Internal - 

@@ -1,0 +1,22 @@
+# Variable is the memory which stores the data.
+# It is the refrance of that memory.
+
+# In Js we have 3 ways to declare a variable.
+# Using var, let, const.
+
+# Js is a loosly typed language where it detects data type of variable at runntime.
+# We do not need to mention it.
+
+# var - 
+ - Scope is global. (we can access that variable outside the scope or between anywhere in program).
+ - It can be redeclare or initialize many times.
+
+# let - 
+ - It is local scope. (can access inside only declared scope.)
+ - can be declare ones but initialize multiple times.
+
+# const - 
+ - It is also local scope.
+ - But for single time while declaring we need to initialize the value.
+ - And we cannot modify it further. 
+ - Best used in production ready softwares.
