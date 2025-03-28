@@ -1,0 +1,19 @@
+# Javascript is the langauage of web.
+
+# We have two ways to link js.
+1. Internal - 
+ - Here we integrates directly inside HTML Page.
+ - By using <script></script> tag.
+
+2. External - 
+ - We use this method in large projects which has multiple files.
+ - For this we uses .js file inside which we writes the Javascript code.
+ - For embbeding with HTML we uses <script src="filePath"></script>
+
+# In Js we do not need to use (;) semicolons requiredly, it is optional to use.
+
+# Also Js follows top to down apprach where thing comes first executes first.
+e.g., if we have code of 10 lines it will start from line one then will come on line 2 and so on.
+
+# in Js for output something we have - console.log() 
+this function shows or prints the things happening in background. In short for developers to know.
